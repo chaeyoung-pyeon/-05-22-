@@ -9,6 +9,7 @@ public class TryCatchFinallyRuntimeExceptionExample {
             System.out.println("실행 매개값의 수가 부족합니다. ");
             return;
         }
+       
 
         try {
             int value1 = Integer.parseInt(data1);
@@ -22,3 +23,6 @@ public class TryCatchFinallyRuntimeExceptionExample {
                }
     }
 }
+
+//채은이가 여기도 왔다감
+//5:00에 수정됨
